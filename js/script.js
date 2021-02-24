@@ -38,6 +38,7 @@ function onGoogleLoaded() {
     "IE": "Republic of Ireland",
     "IT": "Italy",
     "JP": "Japan",
+    "KR": "South Korea",
     "LV": "Latvia",
     "LI": "Liechtenstein",
     "LT": "Lithuania",
