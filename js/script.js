@@ -477,5 +477,5 @@ function onGoogleLoaded() {
 
   chart = new google.visualization.GeoChart(chartContainer);
 
-  performSearch(Config.getLastSearch() || "18qY7zpuNqeXNGywRysjxx");
+  performSearch(Config.getLastSearch() || "5crKH3Brm4wjPOsgpEqkcU");
 }
