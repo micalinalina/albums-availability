@@ -1,7 +1,7 @@
 var Auth = {
   getAuthUrl: function(siteUrl) {
 
-    var clientId = '54e0e5bde5be499a94ecf7b31c1da2f1';
+    var clientId = '8d43aeb72ec942b08b5957e09cb20f15';
     var redirectUri = encodeURIComponent(siteUrl + '?auth_callback');
 
     return url = 'https://accounts.spotify.com/authorize?client_id=' + clientId + '&redirect_uri=' + redirectUri + '&response_type=token';
