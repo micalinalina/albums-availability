@@ -1,5 +1,6 @@
 Albums Availability Map
 -----------------------
+A simple fork of kaaes's Album Availability Map updated to include countries supported by Spotify since then.
 
 A visualisation for albums and their availability in Spotify.
 
